@@ -1,7 +1,7 @@
 - 👋 Olá, Me chamo @JadersonOliveira
 - 👀 Interessado em Tecnologia por isso resolvi cursar Engenharia da Computação.
 - 🌱 Atualmente estou aprendendo sobre o desenvolvimento back-end, mais especificamente PHP.
-- 💞️ Estou procurando colaborar em áreas relacionadas tanto no DEV de front-end como back-end e também na área de suporte de sistemas.
+- 💞️ Estou procurando colaborar em áreas relacionadas tanto no DEV de front-end como back-end, automação e também na área de suporte de sistemas.
 - 📫 Pode se comunicar através do email disponibilizado na bio do GitHub.
 
 <!---
